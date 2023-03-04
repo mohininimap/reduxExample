@@ -1,0 +1,8 @@
+npm i redux react-redux redux-thunk
+
+reducer=>reducer is a pure function that takes an action and the previous state of the application and returns
+the new state
+
+redux-thunk=>ye asynchronous function ko execute karne me madat karata hai
+--------------------
+useDispatch=>action ko dispatch karne ke liye use hota hai
